@@ -1,6 +1,6 @@
-# Tell the Void
+# ♾️ Tell the Void
 
-🌀 **Tell the Void** is the official issue tracker and feedback space for [Void](https://void.md) — markdown-native API client built for clarity, speed, and extensibility.
+♾️ **Tell the Void** is the official issue tracker and feedback space for [Void](https://void.md) — markdown-native API client built for clarity, speed, and extensibility.
 
 Use this repository to:
 
